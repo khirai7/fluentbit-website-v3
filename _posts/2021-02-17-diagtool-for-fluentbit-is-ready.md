@@ -111,5 +111,7 @@ Once the pre-check is completed, you are ready to run the tool. When you use Flu
 2020-10-19 06:21:36 +0000: [Diagtool] [INFO] [Collect] Generate tar file /tmp//diagout-20201019062135.tar.gz
 ```
 
-## Questions?
-You can always download instruction on how to use the Diagtool [here](https://fluentd.ctc-america.com/download-wp1). Also, feel free to contact us any time by making a request via Github or [send any questions and requests](https://fluentd.ctc-america.com/contact) for enhancement directly to us. We’d love to hear from you!
+## Conclusion
+Fluentd and Fluent Bit are powerful and flexible applications that you can use as part of your data, observability, and security pipelines. Knowing more about common architecture patterns can help you make your decision to deploy Fluentd and Fluent Bit.
+
+We invite you to discuss these architecture patterns further with us in the [Fluent Slack channel](https://slack.fluentd.org/), GitHub, or even email. 
