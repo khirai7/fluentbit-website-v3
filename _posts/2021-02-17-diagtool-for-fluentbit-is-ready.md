@@ -25,7 +25,6 @@ The following table describe a comparison of features between Fluentd and Fluent
 
 Fluentd and Fluent Bit have similar concepts, both have pluggable input and output modules and data process functions, however the format of configuration is not same.  Diatool version 1.0 was released and now Diagtool is able to interpret the configuration of Fluent Bit and gather/validate required information as well as Fluentd.  The new option ‘—type/-t‘ enables you to switch Fluentd and Fluent Bit. Here is sample usage of Diagtool for Fluent Bit.  
 
------------------------------
 
 ## Run Pre-Check
 
@@ -45,7 +44,6 @@ Before running the main function of Diagtool, we recommend you to run precheck w
 2020-10-19 06:03:38 +0000: [Diagtool] [INFO] [Precheck] td-agent log =
 2020-10-19 06:03:38 +0000: [Diagtool] [WARN] [Precheck] can not find td-agent log path: please run diagtool command with -l /path/to/
 ```
------------------------------
 
 ## Run Diagtool
 
