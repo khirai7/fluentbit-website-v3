@@ -3,7 +3,7 @@ layout: post
 title:  "Diagtool for Fluent Bit is ready"
 date:   2021-01-17
 categories: cloudnative logging news
-author: TK-Kubota
+author: TK-Kubota(https://github.com/kubotat)
 ---
 
 Diatool now supports “[Fluent Bit](https://www.fluentbit.io/)”! Tool was just released as v.1.0, and now you can automate your troubleshooting process for both Fluentd and Fluent Bit.
